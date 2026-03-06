@@ -1,0 +1,20 @@
+[
+    {
+        "owner": "Abdelrahman Metawea",
+        "balance": 1500.0,
+        "ID": 4837264928,
+        "password": "123"
+    },
+    {
+        "owner": "Hesham Metawea",
+        "balance": 5000,
+        "ID": 9384726112,
+        "password": "123"
+    },
+    {
+        "owner": "Elon Musk",
+        "balance": 324585504.0,
+        "ID": 6612455079,
+        "password": "123"
+    }
+]
